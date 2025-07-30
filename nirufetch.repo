@@ -1,0 +1,6 @@
+
+[nirufetch]
+name=Niru CLI Portfolio
+baseurl=https://0xNiru.github.io/nirufetch/
+enabled=1
+gpgcheck=0
